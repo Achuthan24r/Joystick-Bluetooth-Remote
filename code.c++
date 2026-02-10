@@ -1,8 +1,4 @@
 
-/* ===== JOYSTICK BLUETOOTH REMOTE =====
-   Control: Direction + Speed
-   Board: Arduino UNO / Nano
-*/
 
 int joyX = A0;   // Left / Right
 int joyY = A1;   // Forward / Backward
